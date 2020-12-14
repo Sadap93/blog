@@ -120,7 +120,7 @@
 
 
 .post__featured {
-    background-image: url(/asssets/roberto-nickson-5ui0tfMC5ts-unsplash.jpg);
+    background-image: url('../asssets/roberto-nickson-5ui0tfMC5ts-unsplash.jpg');
     background-size: cover;
     width: 100%;
     height: 350px;
